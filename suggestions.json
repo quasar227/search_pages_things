@@ -1,8 +1,12 @@
 {
+  "meta": {
+    "version": 2,
+    "last_updated": "2023-12-01T12:00:00Z"
+  },
   "suggestions": [
-    "produit1",
-    "produit2",
-    "produit3",
+    "Produit A",
+    "Produit B",
+    "Accessoire C",
     "..."
   ]
 }
