@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Smartphone X",
+    "description": "Un smartphone haut de gamme avec caméra 48MP",
+    "price": 699.99,
+    "images": ["https://picsum.photos/300/200?random=1"],
+    "category": "Électronique",
+    "sellerId": "seller1"
+  },
+  {
+    "id": "1",
+    "name": "Smartphone X",
+    "description": "Un smartphone haut de gamme avec caméra 48MP",
+    "price": 699.99,
+    "images": ["https://picsum.photos/300/200?random=1"],
+    "category": "Électronique",
+    "sellerId": "seller1"
+  },
+  {
+    "id": "1",
+    "name": "Smartphone X",
+    "description": "Un smartphone haut de gamme avec caméra 48MP",
+    "price": 699.99,
+    "images": ["https://picsum.photos/300/200?random=1"],
+    "category": "Électronique",
+    "sellerId": "seller1"
+  },
+  {
+    "id": "1",
+    "name": "Smartphone X",
+    "description": "Un smartphone haut de gamme avec caméra 48MP",
+    "price": 699.99,
+    "images": ["https://picsum.photos/300/200?random=1"],
+    "category": "Électronique",
+    "sellerId": "seller1"
+  },
+  {
+    "id": "1",
+    "name": "Smartphone Xsssssssssssssssssssss",
+    "description": "Un smartphone haut de gamme avec caméra 48MP",
+    "price": 699.99,
+    "images": ["https://picsum.photos/300/200?random=1"],
+    "category": "Électronique",
+    "sellerId": "seller1"
+  },
+  {
+    "id": "2",
+    "name": "T-shirt coton",
+    "description": "T-shirt 100% coton bio",
+    "price": 24.99,
+    "images": ["https://picsum.photos/300/200?random=2"],
+    "category": "Vêtements",
+    "sellerId": "seller2"
+  },
+  {
+    "id": "3",
+    "name": "Livre Flutter",
+    "description": "Guide complet pour développer avec Flutter",
+    "price": 39.99,
+    "images": ["https://picsum.photos/300/200?random=3"],
+    "category": "Livres",
+    "sellerId": "seller3"
+  },
+  {
+    "id": "4",
+    "name": "Chaise de bureau",
+    "description": "Chaise ergonomique pour bureau",
+    "price": 129.99,
+    "images": ["https://picsum.photos/300/200?random=4"],
+    "category": "Mobilier",
+    "sellerId": "seller4"
+  }
+]
