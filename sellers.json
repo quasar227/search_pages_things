@@ -1,0 +1,26 @@
+[
+  {
+    "id": "seller1",
+    "firstName": "Jean",
+    "lastName": "Dupont",
+    "phone": "+33123456789",
+    "whatsapp": "+33123456789",
+    "address": "12 rue de Paris, 75000 Paris"
+  },
+  {
+    "id": "seller2",
+    "firstName": "Marie",
+    "lastName": "Curie",
+    "phone": "+33111222333",
+    "whatsapp": "+33111222333",
+    "address": "45 avenue des Champs, 75008 Paris"
+  },
+  {
+    "id": "seller3",
+    "firstName": "Paul",
+    "lastName": "Martin",
+    "phone": "+33987654321",
+    "whatsapp": "+33987654321",
+    "address": "78 boulevard Haussmann, 75009 Paris"
+  }
+]
