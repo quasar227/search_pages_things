@@ -6,43 +6,14 @@
     "price": 699.99,
     "images": ["https://picsum.photos/300/200?random=1"],
     "category": "Électronique",
-    "sellerId": "seller1"
-  },
-  {
-    "id": "1",
-    "name": "Smartphone X",
-    "description": "Un smartphone haut de gamme avec caméra 48MP",
-    "price": 699.99,
-    "images": ["https://picsum.photos/300/200?random=1"],
-    "category": "Électronique",
-    "sellerId": "seller1"
-  },
-  {
-    "id": "1",
-    "name": "Smartphone X",
-    "description": "Un smartphone haut de gamme avec caméra 48MP",
-    "price": 699.99,
-    "images": ["https://picsum.photos/300/200?random=1"],
-    "category": "Électronique",
-    "sellerId": "seller1"
-  },
-  {
-    "id": "1",
-    "name": "Smartphone X",
-    "description": "Un smartphone haut de gamme avec caméra 48MP",
-    "price": 699.99,
-    "images": ["https://picsum.photos/300/200?random=1"],
-    "category": "Électronique",
-    "sellerId": "seller1"
-  },
-  {
-    "id": "1",
-    "name": "Smartphone Xsssssssssssssssssssss",
-    "description": "Un smartphone haut de gamme avec caméra 48MP",
-    "price": 699.99,
-    "images": ["https://picsum.photos/300/200?random=1"],
-    "category": "Électronique",
-    "sellerId": "seller1"
+    "seller": {
+      "id": "seller1",
+      "firstName": "Jean",
+      "lastName": "Dupont",
+      "phone": "+33123456789",
+      "whatsapp": "+33123456789",
+      "address": "123 rue Exemple, Paris"
+    }
   },
   {
     "id": "2",
@@ -51,24 +22,14 @@
     "price": 24.99,
     "images": ["https://picsum.photos/300/200?random=2"],
     "category": "Vêtements",
-    "sellerId": "seller2"
-  },
-  {
-    "id": "3",
-    "name": "Livre Flutter",
-    "description": "Guide complet pour développer avec Flutter",
-    "price": 39.99,
-    "images": ["https://picsum.photos/300/200?random=3"],
-    "category": "Livres",
-    "sellerId": "seller3"
-  },
-  {
-    "id": "4",
-    "name": "Chaise de bureau",
-    "description": "Chaise ergonomique pour bureau",
-    "price": 129.99,
-    "images": ["https://picsum.photos/300/200?random=4"],
-    "category": "Mobilier",
-    "sellerId": "seller4"
+    "seller": {
+      "id": "seller2",
+      "firstName": "Marie",
+      "lastName": "Durand",
+      "phone": "+33987654321",
+      "whatsapp": "+33987654321",
+      "address": "45 avenue Exemple, Lyon"
+    }
   }
+  // etc.
 ]
